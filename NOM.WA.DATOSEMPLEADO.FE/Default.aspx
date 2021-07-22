@@ -15,7 +15,7 @@
             <asp:GridView ID="GridView1" runat="server" CellPadding="4" ForeColor="#333333" GridLines="None" Width="858px" OnSelectedIndexChanged="GridView1_SelectedIndexChanged">
                 <AlternatingRowStyle BackColor="White" />
                 <Columns>
-                    <asp:ButtonField ButtonType="Button" CommandName="Select" HeaderText="Ver" ShowHeader="True" Text="Nivel de riesgo" />
+                    <asp:ButtonField CommandName="Select" HeaderText="Ver" ShowHeader="True" Text="Nivel de riesgo" />
                 </Columns>
                 <EditRowStyle BackColor="#2461BF" />
                 <FooterStyle BackColor="#507CD1" Font-Bold="True" ForeColor="White" />
