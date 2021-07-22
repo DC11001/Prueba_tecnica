@@ -9,8 +9,9 @@
 
 Cualquiera de los dos enlaces siguientes debería funcionar. 
 
+comprimido
 https://drive.google.com/file/d/1QtDZ1O28ObTVyhBuq1NAUfkUIHxKcrrT/view?usp=sharing
 
+calidad original 
 https://drive.google.com/file/d/1pMi2TR3PqAqJzOjlfF-29I5A-uuJQGc4/view?usp=sharing
-
 
