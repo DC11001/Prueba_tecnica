@@ -33,10 +33,9 @@ namespace NOM.WA.DATOSEMPLEADO.FE
                 validcols = DeserializeToList<Model.Colaborador>(jsonString);
                 GridView1.DataSource = validcols;
                 GridView1.DataBind();
-                //ButtonField b = new ButtonField();
-                //b.ButtonType = ButtonType.Button;
-                //GridView1.Columns.Add(b);
-                //GridView1.Columns.RemoveAt(0);
+                ButtonField b = new ButtonField();
+                b.ButtonType = ButtonType.Button;
+                Label1.Text = GridView1.Columns.Count.ToString();
             }
             else
             {
@@ -67,6 +66,13 @@ namespace NOM.WA.DATOSEMPLEADO.FE
             }
 
             return objectsList;
+        }
+
+        protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            Label1.Text = "\"Fuera de peligro\"";
+            Label1.Text = "\"TENGA CUIDADO, TOME TODAS LAS MEDIDAS DE PREVENSION\"";
+            Label1.Text = "\"POR FAVOR QUEDARSE EN CASA\"";
         }
     }
 }
