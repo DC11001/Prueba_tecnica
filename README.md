@@ -7,5 +7,8 @@
 
 ### Disculpas por la precariedad del video. No tenía muchas herramientas a la mano. 
 
-https://drive.google.com/file/d/1pMi2TR3PqAqJzOjlfF-29I5A-uuJQGc4/view?usp=sharing
+Cualquiera de los dos enlaces siguientes debería funcionar. 
 
+https://drive.google.com/file/d/1QtDZ1O28ObTVyhBuq1NAUfkUIHxKcrrT/view?usp=sharing
+
+https://drive.google.com/file/d/1pMi2TR3PqAqJzOjlfF-29I5A-uuJQGc4/view?usp=sharing
